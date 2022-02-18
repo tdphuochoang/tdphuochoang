@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Hoang Tran!
+#### Frontend Developer 
+I am a San Diego State University alumni, class of 2021. I graduated with a Bachelor of Science degree in Computer Science, with the focus on Web Development.
 
-<!--
-**tdphuochoang/tdphuochoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS/ SASS 
 
-Here are some ideas to get you started:
+## 📈 Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdphuochoang&show_icons=true&theme=great-gatsby)
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
