@@ -8,9 +8,9 @@
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/tdphuochoang) &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' >](https://www.linkedin.com/in/tdphuochoang/) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20' >](https://www.facebook.com/tdphuochoang) &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/tdphoang/) &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/tdphuochoang) &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'>](https://www.youtube.com/channel/UCB_uUJrCjzLMwj-k-pYwTSA) -->  
 
 ## About Me:
-### I'm a SDSU Alumni, a Husband, and an Enthusiastic Front End Developer!!
-- :computer: I’m most familiar with designing websites using either VanillaJS or React. 
-- 🌱 I’m currently learning backend development.
+### I'm a SDSU Alumni, a Husband, and an Enthusiastic Full Stack Developer!!
+- :computer: I’m most familiar with using MERN stacks to build full stack web applications. 
+- 🌱 I’m currently learning Angular.
 - :hiking_boot: I love exploring PNW hiking trails during summer time. My favorite trail so far: :mountain_snow: <a href="https://www.alltrails.com/trail/us/washington/mount-fremont-lookout-trail-via-sourdough-ridge-trail">Mount Fremont Lookout</a>.
 - :musical_keyboard: I enjoy playing piano during my free time. <!-- Some of them <a href="https://www.facebook.com/tdphuochoang/videos_by" target="_blank">here!</a> Give me a thump up if you like it :thumbsup:. -->  
 - ⚡ Fun fact: I forget everything I learn after I sleep.
