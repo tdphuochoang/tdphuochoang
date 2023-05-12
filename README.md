@@ -10,7 +10,7 @@
 ## About Me:
 ### I'm a SDSU Alumni, a Husband, and an Enthusiastic Full Stack Developer!!
 - :computer: I’m most familiar with using MERN stacks to build full stack web applications. 
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning VueJS and Nuxt.js.
 - :hiking_boot: I love exploring PNW hiking trails during summer time. My favorite trail so far: :mountain_snow: <a href="https://www.alltrails.com/trail/us/washington/mount-fremont-lookout-trail-via-sourdough-ridge-trail">Mount Fremont Lookout</a>.
 - :musical_keyboard: I enjoy playing piano during my free time. <!-- Some of them <a href="https://www.facebook.com/tdphuochoang/videos_by" target="_blank">here!</a> Give me a thump up if you like it :thumbsup:. -->  
 - ⚡ Fun fact: I forget everything I learn after I sleep.
